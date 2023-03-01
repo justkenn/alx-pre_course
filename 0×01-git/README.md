@@ -1,1 +1,1 @@
-The program is amaizing
+my second readme
